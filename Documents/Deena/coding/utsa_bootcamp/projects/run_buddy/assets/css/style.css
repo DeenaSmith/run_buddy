@@ -55,11 +55,11 @@ footer a {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("../run_buddy/images/hero-image.jpeg");
+    background-image:url("../images/hero-bg.jpg");
+    position: relative;
     height: 600px;
     background-size: cover;
     background-position: center;
-    position: relative;
 }
 .hero-form {
     background-color: #fce138;
@@ -103,9 +103,9 @@ footer a {
 .intro {
     text-align: center;
 }
-.intro h2 {
+/* .intro h2 {
     
-}
+} */
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -117,9 +117,9 @@ footer a {
     text-align: center;
     background: #fce138;
 }
-.steps h2{
+/* .steps h2{
 
-}
+} */
 .section-title {
     font-size: 55px;
     color: #024e76;
