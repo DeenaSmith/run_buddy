@@ -55,7 +55,7 @@ footer a {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("../run_buddy/images/hero-image.jpeg");
+    background-image: url("../images/hero-image.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
